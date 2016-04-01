@@ -37,6 +37,8 @@ a {
 
 a:hover {
   color: #777;
+    text-decoration: none;
+  
   
 }
 
@@ -44,8 +46,20 @@ a:hover {
     font-weight: 700;
 }
 
+#albumname {
+    font-weight: 700;
+}
+
+#albumartist {
+    font-weight: 400;
+}
+
 .navboy {
     padding-top: 65px;
+}
+
+.navboy4 {
+    padding-top: 70px;
 }
 
 .navboy2 {
