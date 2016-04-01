@@ -43,6 +43,17 @@ a:hover {
   
 }
 
+.btn-primary {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+
+.btn:hover {
+    background-color: #777;
+    border-color: #777;
+}
+
 #news {
     font-weight: 700;
 }
