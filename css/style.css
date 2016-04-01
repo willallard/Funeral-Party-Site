@@ -38,6 +38,7 @@ a {
 a:hover {
   color: #777;
     text-decoration: none;
+    
   
   
 }
@@ -55,6 +56,10 @@ a:hover {
 }
 
 .navboy {
+    padding-top: 85px;
+}
+
+.navboy5 {
     padding-top: 65px;
 }
 
