@@ -157,7 +157,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
                         <li class="footer-menu-divider">&sdot;</li>
                        <li><a href="https://www.instagram.com/funeralpartyrecords/"><i class="fa fa-instagram"></i></a></li>  
                     </ul>
-                    <p class="copyright text-muted small">&copy; Funeral Party Records 2016 // Built by <a href="http://dotcomplex.org/">Dot Complex</a></p>
+                    <p class="copyright text-muted small">&copy; Funeral Party Records 2016 // Built by <strong><a href="http://dotcomplex.org/">Dot Complex</a></strong></p>
                 </div>
             </div>
         </div>
