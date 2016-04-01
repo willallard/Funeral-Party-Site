@@ -1,0 +1,103 @@
+html, body {
+    height: 100%;
+}
+
+
+.center-block {
+    position: absolute;
+       top: 0;
+       left: 0;
+       bottom: 0;
+       right: 0;
+       margin: auto;
+}
+
+body {
+    font-family: 'Arimo', sans-serif;
+    
+
+}
+
+.navbar {
+    background: white;
+    
+}
+
+
+
+.navbar-default .navbar-brand {
+    color: black;
+    font-weight: 700;
+}
+
+a {
+    color: black;
+    
+}
+
+a:hover {
+  color: #777;
+  
+}
+
+#news {
+    font-weight: 700;
+}
+
+.navboy {
+    padding-top: 65px;
+}
+
+.navboy2 {
+    padding-top: 40px;
+}
+
+.navboy3 {
+    padding-top: 165px;
+}
+
+#blog {
+    padding-bottom: 25px;
+
+}
+
+
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -151px; /* the bottom margin is the negative value of the footer's height */
+}
+
+
+.footer, .push {
+    height: 155px; /* .push must be the same height as .footer */
+}
+
+.footer {
+    
+    padding: 50px 0;
+    background-color: #f8f8f8;
+   
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+
+#footerbottom {
+
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 151px;
+  
+}
+
+
+  
+.top-buffer { margin-top:20px; }
+
+
+
