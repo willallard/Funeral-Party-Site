@@ -5,7 +5,7 @@
 		$message = $_POST['message'];
 		$human = intval($_POST['human']);
 		$from = 'Demo Contact Form'; 
-		$to = 'moolankalapian@gmail.com'; 
+		$to = 'theefuneralparty@gmail.com'; 
 		$subject = 'Message from Contact Demo ';
 		
 		$body ="From: $name\n E-Mail: $email\n Message:\n $message";
@@ -157,7 +157,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
                         <li class="footer-menu-divider">&sdot;</li>
                        <li><a href="https://www.instagram.com/funeralpartyrecords/"><i class="fa fa-instagram"></i></a></li>  
                     </ul>
-                    <p class="copyright text-muted small">&copy; Funeral Party Records 2016 // Built by Dot Complex</p>
+                    <p class="copyright text-muted small">&copy; Funeral Party Records 2016 // Built by <a href="http://dotcomplex.org/">Dot Complex</a></p>
                 </div>
             </div>
         </div>
